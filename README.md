@@ -1,3 +1,3 @@
 # Hacktoberfest_arms
 
-java program to find armstrong number
+java program to find armstrong number code
